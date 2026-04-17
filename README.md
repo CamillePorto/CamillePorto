@@ -8,10 +8,10 @@ Sou Camille Porto, estudante da UFBA no Bacharelado Interdisciplinar em Ciência
 
 Minha experiência combina tecnologia, dados e gestão, construída ao longo de mais de 3 anos em um ecossistema de empreendedorismo e inovação, onde atuei com:
 
-📊 Análise e tratamento de dados
-⚙️ Automação de processos
-📈 Suporte estratégico à tomada de decisão
-🧩 Gestão de sistemas e ferramentas
+- 📊 Análise e tratamento de dados
+- ⚙️ Automação de processos
+- 📈 Suporte estratégico à tomada de decisão
+- 🧩 Gestão de sistemas e ferramentas
 
 Hoje, direciono minha carreira para Ciência de Dados, buscando transformar dados em insights e soluções reais.
 
@@ -36,25 +36,16 @@ Hoje, direciono minha carreira para Ciência de Dados, buscando transformar dado
 
 ### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=CamillePorto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+<div align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=CamillePorto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilleporto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
+</div>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilleporto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
+---
 
-</p>
 
-### 🚀 Destaques
+
+## 🚀 Destaques
 - 📊 Experiência prática com análise de dados e automação de processos
 - ⚙️ Atuação em tecnologia aplicada à gestão e tomada de decisão
 - 📈 Interesse crescente em Ciência de Dados e modelagem analítica
