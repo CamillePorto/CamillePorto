@@ -13,10 +13,9 @@ Minha experiência combina tecnologia, dados e gestão, construída ao longo de 
 - 📈 Suporte estratégico à tomada de decisão
 - 🧩 Gestão de sistemas e ferramentas
 
-Hoje, direciono minha carreira para Ciência de Dados, buscando transformar dados em insights e soluções reais.
+**Hoje, direciono minha carreira para Ciência de Dados, buscando transformar dados em insights e soluções reais.**
 
-🎯 Meu objetivo é atuar com dados e, no futuro, seguir também na carreira acadêmica como professora e pesquisadora.
-
+---
 
 ### 🤖 Linguagens e Ferramentas
 
