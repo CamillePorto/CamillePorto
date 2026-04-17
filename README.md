@@ -1,7 +1,6 @@
-## <div align="center">
-👩🏻‍💻 Camille Porto | Tecnologia & Ciência de Dados
+# 👩🏻‍💻 Camille Porto | Tecnologia & Ciência de Dados
 
-</div>
+
 
 **🚀 Sobre Mim**
 
