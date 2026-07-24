@@ -4,7 +4,7 @@
 
 **🚀 Sobre Mim**
 
-Sou Camille Porto, estudante da UFBA no Bacharelado Interdisciplinar em Ciência, Tecnologia e Inovação (último semestre), com trajetória também pela Engenharia de Controle e Automação.
+Sou Camille Porto, bacharela em Ciência, Tecnologia e Inovação pela UFBA, com trajetória também pela Engenharia de Controle e Automação.
 
 Minha experiência combina tecnologia, dados e gestão, construída ao longo de mais de 3 anos em um ecossistema de empreendedorismo e inovação, onde atuei com:
 
@@ -33,12 +33,7 @@ Minha experiência combina tecnologia, dados e gestão, construída ao longo de 
 
 <br/> <br/>
 
-### 📊 Estatísticas
 
-<div align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=CamillePorto&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camilleporto&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</div>
 
 ---
 
